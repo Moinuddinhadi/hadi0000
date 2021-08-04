@@ -87,14 +87,14 @@ print """
 
 
                                                                             
-/033[1;93m           ,,    ,,                        ,,        ,,    ,,              
-/033[1;93m .M"""bgd `7MM  `7MM                      `7MM      `7MM    db              
-/033[1;93m,MI    "Y   MM    MM                        MM        MM                    
-/033[1;93m`MMb.       MM    MMpMMMb.`7MM  `7MM   ,M""bMM   ,M""bMM  `7MM  `7MMpMMMb.  
-/033[1;93m  `YMMNq.   MM    MM    MM  MM    MM ,AP    MM ,AP    MM    MM    MM    MM  
-/033[1;93m.     `MM   MM    MM    MM  MM    MM 8MI    MM 8MI    MM    MM    MM    MM  
-/033[1;93mMb     dM   MM    MM    MM  MM    MM `Mb    MM `Mb    MM    MM    MM    MM  
-/033[1;93mP"Ybmmd"  .JMML..JMML  JMML.`Mbod"YML.`Wbmd"MML.`Wbmd"MML..JMML..JMML  JMML.
+/033[1;94m           ,,    ,,                        ,,        ,,    ,,              
+/033[1;94m .M"""bgd `7MM  `7MM                      `7MM      `7MM    db              
+/033[1;94m,MI    "Y   MM    MM                        MM        MM                    
+/033[1;94m`MMb.       MM    MMpMMMb.`7MM  `7MM   ,M""bMM   ,M""bMM  `7MM  `7MMpMMMb.  
+/033[1;94m  `YMMNq.   MM    MM    MM  MM    MM ,AP    MM ,AP    MM    MM    MM    MM  
+/033[1;94m.     `MM   MM    MM    MM  MM    MM 8MI    MM 8MI    MM    MM    MM    MM  
+/033[1;94mMb     dM   MM    MM    MM  MM    MM `Mb    MM `Mb    MM    MM    MM    MM  
+/033[1;94mP"Ybmmd"  .JMML..JMML  JMML.`Mbod"YML.`Wbmd"MML.`Wbmd"MML..JMML..JMML  JMML.
                                                                             
                                                                             
 
