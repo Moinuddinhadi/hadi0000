@@ -85,8 +85,6 @@ os.system('clear')
 
 print """
 
-
-                                                                            
 /033[1;92m           ,,    ,,                        ,,        ,,    ,,              
 /033[1;92m  .M"""bgd `7MM  `7MM                      `7MM      `7MM    db              
 /033[1;92m,MI    "Y   MM    MM                        MM        MM                    
@@ -95,6 +93,8 @@ print """
 /033[1;92m.     `MM   MM    MM    MM  MM    MM 8MI    MM 8MI    MM    MM    MM    MM  
 /033[1;92mMb     dM   MM    MM    MM  MM    MM `Mb    MM `Mb    MM    MM    MM    MM  
 /033[1;92mP"Ybmmd"  .JMML..JMML  JMML.`Mbod"YML.`Wbmd"MML.`Wbmd"MML..JMML..JMML  JMML.
+                                                                            
+
                                                                             
                                                                             
 
