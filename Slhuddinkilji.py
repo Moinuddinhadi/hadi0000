@@ -85,14 +85,14 @@ os.system('clear')
 
 print """
 
-           ,,    ,,                        ,,        ,,    ,,              
-  .M"""bgd `7MM  `7MM                      `7MM      `7MM    db              
-,MI    "Y   MM    MM                        MM        MM                    
-`MMb.       MM    MMpMMMb.`7MM  `7MM   ,M""bMM   ,M""bMM  `7MM  `7MMpMMMb.  
-m  `YMMNq.   MM    MM    MM  MM    MM ,AP    MM ,AP    MM    MM    MM    MM  
-.     `MM   MM    MM    MM  MM    MM 8MI    MM 8MI    MM    MM    MM    MM  
-Mb     dM   MM    MM    MM  MM    MM `Mb    MM `Mb    MM    MM    MM    MM  
-P"Ybmmd"  .JMML..JMML  JMML.`Mbod"YML.`Wbmd"MML.`Wbmd"MML..JMML..JMML  JMML.
+\033[1;92m           ,,    ,,                        ,,        ,,    ,,              
+\033[1;93m  .M"""bgd `7MM  `7MM                      `7MM      `7MM    db              
+\033[1;92m,MI    "Y   MM    MM                        MM        MM                    
+\033[1;92m`MMb.       MM    MMpMMMb.`7MM  `7MM   ,M""bMM   ,M""bMM  `7MM  `7MMpMMMb.  
+\033[1;92mm  `YMMNq.   MM    MM    MM  MM    MM ,AP    MM ,AP    MM    MM    MM    MM  
+\033[1;92m.     `MM   MM    MM    MM  MM    MM 8MI    MM 8MI    MM    MM    MM    MM  
+\033[1;92mMb     dM   MM    MM    MM  MM    MM `Mb    MM `Mb    MM    MM    MM    MM  
+\033[1;92mP"Ybmmd"  .JMML..JMML  JMML.`Mbod"YML.`Wbmd"MML.`Wbmd"MML..JMML..JMML  JMML.
                                                                             
 
                                                                             
